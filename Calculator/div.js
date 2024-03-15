@@ -1,0 +1,1 @@
+const div=10
